@@ -8,4 +8,4 @@ Perform exploratory analysis on the dataset and attempt a humble weather predict
 
 💻 Stack
 
-For this project, I used Python (library: sklearn)
+For this project, I used Python, Scikit-learn, Jupyter notebook, Pandas
