@@ -1,6 +1,6 @@
 ✅ Introduction
 
-First attempt using a machine learning linear model to attempt weather prediction. Check the `Weather_prediction_Ridge_Regression.ipynb` file!
+First attempt using a machine learning linear model to attempt weather prediction. Check the `Weather_prediction_Ridge_Regression.ipynb` file! Bear in mind that "our forays into data don’t always result in earth-shattering revelations. Sometimes they do, but most of the time they don’t. That’s part of the job." (Cassie Kozyrkov)
 
 📊 Aim
 
