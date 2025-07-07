@@ -1,4 +1,4 @@
-#🌦️ Weather Prediction with Ridge Regression
+🌦️ Weather Prediction with Ridge Regression
 
 ---
 
