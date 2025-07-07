@@ -30,6 +30,8 @@ This project is a practical exercise in applying machine learning to weather pre
 ---
 
 📌 Key Features
+
+
 ✔️ Clean and well-documented code
 
 ✔️ Tidying data
@@ -39,6 +41,8 @@ This project is a practical exercise in applying machine learning to weather pre
 ---
 
 📉 Limitations & Notes
+
+
 This is a simplified model and doesn’t incorporate dynamic weather simulations or atmospheric physics.
 
 The goal is not to build a production-level weather forecaster, but to practice regression modeling, EDA, and critical thinking around model assumptions and generalization.
@@ -46,6 +50,8 @@ The goal is not to build a production-level weather forecaster, but to practice 
 ---
   
 ### 📚 Data Source
+
+
 [Click here](https://www.ncei.noaa.gov/cdo-web/search?datasetid=GHCND)
 
 ---
