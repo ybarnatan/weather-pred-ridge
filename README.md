@@ -5,8 +5,8 @@
 ### ✅ Introduction
 This project is a practical exercise in applying machine learning to weather prediction using a regularized linear model (Ridge Regression). While real-world meteorological models are far more complex and data-intensive, this example illustrates how basic machine learning techniques can be used to explore and model weather-related variables.
 
-"Our forays into data don’t always result in earth-shattering revelations. Sometimes they do, but most of the time they don’t. That’s part of the job."
-— Cassie Kozyrkov
+> _"Our forays into data don’t always result in earth-shattering revelations. Sometimes they do, but most of the time they don’t. That’s part of the job."
+> — Cassie Kozyrkov
 
 📄 Check out the full analysis in the following notebook: [`Ridge Regression`](./Weather_prediction_Ridge_Regression.ipynb)
 
