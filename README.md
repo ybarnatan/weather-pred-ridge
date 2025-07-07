@@ -32,11 +32,11 @@ This project is a practical exercise in applying machine learning to weather pre
 📌 Key Features
 
 
-✔️ Clean and well-documented code
++ Clean and well-documented code
 
-✔️ Tidying data
++ Tidying data
 
-✔️ Simple prediction
++ Simple prediction
 
 ---
 
